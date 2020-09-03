@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+ height:100%;
 }
 
 .App-logo {
@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+#border{
+    margin: 10% 20% 0% 20%;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 16px;
+  }
+#button{
+    font-size: 17px;
+    background-color: white;
+    border-radius: 17px;
+  }
+#kolom1{
+  width: 40%
+}
+#kolom2{
+  width: 60%
+}
+#input{
+  font-size: 14px;
+  width: 60%;
+}
+h1{
+    text-align: center;
+    font-size: 25px;
+  }
+  table{
+    width: 100%;
+    font-size: 17px;
+  }
+  td{
+    padding-top: 14px;
+    padding-bottom: 14px;
+  }
