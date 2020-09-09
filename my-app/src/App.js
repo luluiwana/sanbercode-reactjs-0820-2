@@ -1,12 +1,12 @@
 import React from 'react';
-import Timer from './Tugas-11/timer.js';
+import HargaBuah from './Tugas-12/tugas12.js';
 
 import './App.css';
 
 function App() {
   return (
     <div>
-     <Timer />
+     <HargaBuah />
 
     </div>
     );

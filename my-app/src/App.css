@@ -105,3 +105,12 @@ table{
 .grid .bold{
   font-weight: 800;
 }
+#Formcenter{
+  text-align: center;
+}
+.btn_buah{
+  background-color: white;
+  font-size: 10px;
+  border: 1px solid black;
+  border-radius: 11px;
+}
